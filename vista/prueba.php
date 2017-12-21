@@ -1,4 +1,4 @@
 <?php 
-
-echo "hola putitos del php";
+$nombre = $_POST['usuario'];
+echo "hola $nombre putitos del php";
 ?>
